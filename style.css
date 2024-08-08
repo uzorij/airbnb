@@ -6,10 +6,38 @@
 .swim{
     height: 300px;
     display: flex;
+    position: relative;
 }
 img{
     border-radius: 10px;
 }
 span{
     color: rgba(67, 69, 70, 0.514);
+}
+p.online{
+    position: absolute;
+    padding: 3px;
+    border-radius: 5px;
+    background-color: white;
+    left: 5px;
+}
+.begin{
+    padding: 10px 20px 10px;
+    padding-right: 1180px;
+    top: 0px;
+    position: fixed;
+    background-color: white;
+    box-shadow: 2px 1px 10px black;
+    margin-left: -8px;
+}
+.logo{
+    width: 100px;
+}
+.hero{
+    width: 800px;
+    height: 450px;
+    margin-top: 100px;
+}
+.images{
+    margin-left: 18%;
 }
