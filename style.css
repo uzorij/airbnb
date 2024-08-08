@@ -1,0 +1,15 @@
+.items{
+    display: flex;
+    flex-direction: row;
+    gap: 3%;
+}
+.swim{
+    height: 300px;
+    display: flex;
+}
+img{
+    border-radius: 10px;
+}
+span{
+    color: rgba(67, 69, 70, 0.514);
+}
