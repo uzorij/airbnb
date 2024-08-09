@@ -1,4 +1,4 @@
-.items{
+.cards{
     display: flex;
     flex-direction: row;
     gap: 3%;
@@ -21,7 +21,7 @@ p.online{
     background-color: white;
     left: 5px;
 }
-.begin{
+.logoDiv{
     padding: 10px 20px 10px;
     padding-right: 1180px;
     top: 0px;
